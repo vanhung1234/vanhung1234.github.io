@@ -1,0 +1,10 @@
+Our therapist might not be an expert, but there is no charge for its services. What’s
+more, our therapist seems willing to go on forever. However, if the patient must quit
+to do something else, she can do so by typing “quit” to end the program.
+The reply function expects the patient’s string as an argument and returns another
+string as the reply. This function implements the two strategies for making replies
+suggested in the analysis phase. A quarter of the time a hedge is warranted.
+Otherwise, the function constructs its reply by changing the persons in the patient’s
+input and appending the result to a randomly selected qualifier. The reply function
+calls yet another function, changePerson, to perform the complex task of changing
+persons

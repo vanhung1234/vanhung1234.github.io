@@ -1,0 +1,2 @@
+Note that the operations listed in Tables 4-5 and 4-6 are functions, not methods. Thus, the call
+os.rename("oldname.txt", "newname.txt")

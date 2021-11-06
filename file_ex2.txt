@@ -1,0 +1,1 @@
+Removes the directory named path from the current working directory
